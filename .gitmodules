@@ -1,0 +1,18 @@
+[submodule "implementation/--name"]
+	path = implementation/--name
+	url = https://github.com/nicolaiapp/im2recipe-Pytorch
+[submodule "food data sets latex table/--name"]
+	path = food data sets latex table/--name
+	url = https://github.com/nicolaiapp/Flavor-Network
+[submodule "food data sets latex table/--Ahn-Flavor-Network"]
+	path = food data sets latex table/--Ahn-Flavor-Network
+	url = https://github.com/nicolaiapp/Flavor-Network
+[submodule "implementation/--im2recipe-Pytorch-fork"]
+	path = implementation/--im2recipe-Pytorch-fork
+	url = https://github.com/nicolaiapp/im2recipe-Pytorch
+[submodule "implementation/im2recipe-Pytorch-fork"]
+	path = implementation/im2recipe-Pytorch-fork
+	url = https://github.com/nicolaiapp/im2recipe-Pytorch
+[submodule "food data sets latex table/Ahn-Flavor-Network"]
+	path = food data sets latex table/Ahn-Flavor-Network
+	url = https://github.com/nicolaiapp/Flavor-Network
