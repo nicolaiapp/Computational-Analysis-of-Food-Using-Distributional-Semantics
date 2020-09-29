@@ -1,0 +1,6 @@
+[submodule "food data sets latex table/Flavor-Network"]
+	path = food data sets latex table/Flavor-Network
+	url = https://github.com/nicolaiapp/Flavor-Network
+[submodule "implementation/im2recipe-Pytorch"]
+	path = implementation/im2recipe-Pytorch
+	url = https://github.com/nicolaiapp/im2recipe-Pytorch
