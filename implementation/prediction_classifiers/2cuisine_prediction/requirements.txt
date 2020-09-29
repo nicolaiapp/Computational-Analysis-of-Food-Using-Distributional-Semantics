@@ -1,0 +1,22 @@
+__future__
+collections
+import gensim
+pprint
+sklearn
+joblib
+copy
+itertools
+math
+numpy
+pandas
+pickle
+scipy
+string
+time
+IPython
+MulticoreTSNE
+matplotlib
+seaborn
+pylab
+pandas_ml
+scipy
